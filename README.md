@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @mbackeCISSE
 - 👀 I’m interested in software engineering 
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning web development and in parallel python programming language
+- 👨‍💻 I plan to work in Artificial Intelligence
 - 😄 Pronouns: he/its
 
 <!---
